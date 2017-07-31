@@ -1,0 +1,10 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "linebreak-style": "off"
+    },
+    "env": {
+        "jasmine": true,
+        "jest": true
+    }
+}
